@@ -229,4 +229,3 @@ See [third-party-notices.txt](distribution/third-party-notices.txt) and the
 ---
 
 Copyright © 2026 moenium · [moenium.net](https://moenium.net/)
-

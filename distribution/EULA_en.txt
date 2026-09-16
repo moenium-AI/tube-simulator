@@ -1,0 +1,157 @@
+======================================================================
+Official English Translation
+The Japanese version is authoritative.
+======================================================================
+
+Tube Simulator License Terms
+
+Version 1.0
+Established September 16, 2026
+Copyright © 2026 moenium
+
+This English version is provided for convenience only. The Japanese version is the authoritative version of these License Terms. If there is any discrepancy in content or interpretation between this English translation and the Japanese version, the Japanese version shall prevail.
+
+These License Terms (the "Terms") set forth the conditions for use of the software "Tube Simulator" (the "Software") provided by moenium (the "Author").
+
+If a user downloads, installs, or uses the Software, the user shall be deemed to have agreed to these Terms. If you do not agree to these Terms, do not download, install, or use the Software.
+
+
+Article 1. License Grant
+
+1. Subject to compliance with these Terms, the Author grants the user a non-exclusive, non-transferable, non-sublicensable, royalty-free right to use the Software.
+
+2. Copyright and all other intellectual property rights in the Software belong to the Author or the respective lawful rights holders and are not transferred to the user under these Terms.
+
+
+Article 2. Scope of Use
+
+1. The user may use the Software free of charge for personal, professional, or other commercial purposes.
+
+2. The user may install the Software on multiple computers under the user's control and make backup copies to the extent necessary for the user's own use.
+
+3. A corporation or other organization may install the Software on computers under its control to the extent necessary for internal use within that corporation or other organization.
+
+
+Article 3. Works Created Using the Software
+
+1. With respect to audio, music, video, or other works created or processed using the Software, the Author does not require payment of any usage fee, royalty, or other consideration, nor attribution of the Author's name, solely because the Software was used.
+
+2. The user may use such works for personal or commercial purposes.
+
+
+Article 4. Redistribution
+
+1. Without the Author's prior permission, the user must not provide all or any part of the Software or its distribution package to any third party by distribution, republication, transmission, lending, sale, sublicensing, or any other means.
+
+2. The foregoing includes, without limitation:
+
+   (1) Republishing or mirroring the Software on a website, file-sharing service, or elsewhere;
+
+   (2) Extracting and distributing the VST3 plug-in, foobar2000 component, or any other individual component file;
+
+   (3) Repackaging the Software in an independent installer, archive, or other distribution package;
+
+   (4) Bundling the Software with other software, products, services, or other distributions; and
+
+   (5) Distributing a modified version of the Software.
+
+3. When introducing the Software to a third party, please direct that person to an official distribution source published by the Author.
+
+4. The Author may grant permission for redistribution on an individual basis.
+
+
+Article 5. Prohibited Conduct
+
+Without the Author's prior permission, the user must not:
+
+1. Modify the Software;
+
+2. Reverse engineer, decompile, disassemble, or otherwise analyze the Software by similar means;
+
+3. Create derivative software or similar works using all or any part of the Software's code or binary;
+
+4. Remove or alter any copyright notice, rights notice, license notice, or other notice contained in the Software;
+
+5. Make any representation concerning the Software or any modified version thereof that may cause others to mistakenly believe that it is officially distributed, approved, endorsed, or otherwise affiliated with the Author;
+
+6. Sell the Software itself or receive consideration primarily for providing the Software; or
+
+7. Use the Software in any other manner contrary to these Terms.
+
+
+Article 6. Third-Party Software
+
+1. The Software may include software, libraries, or other components in which third parties hold rights.
+
+2. Such third-party components are subject to their respective applicable license terms.
+
+3. For details of third-party licenses, refer to the third-party license documents included with the Software.
+
+
+Article 7. Warranty
+
+1. The Software is provided in the condition in which it is made available.
+
+2. The Author does not warrant that:
+
+   (1) The Software is free from bugs, errors, or other defects;
+
+   (2) The Software will operate continuously or without interruption;
+
+   (3) The Software will operate on every operating system, host application, hardware configuration, or other environment;
+
+   (4) The Software will be suitable for any particular purpose, use, or requirement;
+
+   (5) Any particular acoustic or technical result will be obtained;
+
+   (6) Compatibility with future environments will be maintained;
+
+   (7) Updates, bug fixes, feature additions, or other maintenance will continue to be provided; or
+
+   (8) Technical assistance or other support will be provided.
+
+3. The Author may change the content, specifications, method of provision, or other aspects of the Software, or may discontinue provision, updates, or support for the Software.
+
+
+Article 8. Liability for Damages
+
+1. Even where the Author is liable to the user for damages arising from breach of contract or tort, where such breach of contract or tort results from the Author's negligence (excluding gross negligence), the Author shall not be liable for damages arising from special circumstances (including cases where the Author or the user foresaw or could have foreseen the occurrence of such damages) or for lost profits.
+
+2. Where damage is caused to the user by the Author's negligence (excluding gross negligence) through breach of contract or tort, the Author's aggregate liability for damages shall be limited to JPY 100.
+
+3. The preceding two paragraphs do not apply where damage is caused to the user by the Author's intentional misconduct or gross negligence.
+
+
+Article 9. Termination of License
+
+1. If the user violates these Terms, the Author may terminate the license granted to that user for the Software.
+
+2. Upon termination of the license, the user must cease using the Software and delete the Software and all copies thereof in the user's possession or control.
+
+
+Article 10. Changes to the License Terms
+
+1. Each version of the Software is subject to the License Terms provided together with that version.
+
+2. The Author may change these Terms with respect to versions of the Software provided in the future.
+
+3. Revised License Terms apply to the Software provided after such revision and do not apply retroactively to versions of the Software obtained by the user before the revision. However, this does not apply where the user separately agrees to the revised License Terms.
+
+
+Article 11. Severability
+
+If any provision of these Terms is determined to be invalid or unenforceable, the remaining provisions shall continue in effect.
+
+
+Article 12. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of Japan.
+
+
+Article 13. Authoritative Language
+
+1. The Japanese version of these Terms is the authoritative version.
+
+2. Any English or other translated version is provided for the user's convenience.
+
+3. If there is any discrepancy in content or interpretation between a translated version and the Japanese version, the Japanese version shall prevail.

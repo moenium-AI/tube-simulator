@@ -1,0 +1,28 @@
+Tube Simulator License Notice
+============================
+
+Copyright © 2026 moenium
+
+Tube Simulator is proprietary freeware.
+
+Use of Tube Simulator is governed by the Tube Simulator License Terms
+distributed with the software.
+
+Authoritative Japanese version:
+distribution/EULA_jp.txt
+
+Official English translation:
+distribution/EULA_en.txt
+
+The Japanese version is authoritative. If there is any discrepancy in content
+or interpretation between the Japanese version and any translation, the
+Japanese version shall prevail.
+
+Third-party components included with or used by Tube Simulator are subject to
+their respective licence terms. For details, see:
+
+distribution/third-party-notices.txt
+licenses/
+
+This file is a repository-level licence notice only. It does not replace,
+modify, or supersede the Tube Simulator License Terms.

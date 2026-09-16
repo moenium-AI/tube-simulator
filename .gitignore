@@ -1,0 +1,14 @@
+# The release archive is distributed through the GitHub Releases page, not
+# committed here, so the repository stays small and there is only one source
+# of truth for "the current release". If a local staging folder is used for
+# Release uploads, add it here.
+
+# OS and editor state
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+.vs/
+.idea/
+*.swp
+*~

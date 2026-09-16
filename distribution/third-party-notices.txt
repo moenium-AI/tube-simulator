@@ -1,0 +1,126 @@
+================================================================
+ Tube Simulator - Third-party notices / 第三者ソフトウェアについて
+================================================================
+
+Tube Simulator itself is distributed under the terms in EULA_jp.txt and
+EULA_en.txt. It also incorporates the third-party software listed below, each
+covered by its own terms.
+
+Tube Simulator本体はEULA_jp.txt / EULA_en.txtの条項に従います。あわせて、以下の第三者
+ソフトウェアを利用しており、それぞれの条項が適用されます。
+
+
+----------------------------------------------------------------
+ JUCE
+----------------------------------------------------------------
+
+  Raw Material Software Limited
+  https://juce.com
+
+Tube Simulator's user interface and VST3 plug-in implementation are built
+with JUCE 9.0.1 and distributed under the JUCE 9 Starter licence, subject to
+the JUCE 9 End User Licence Agreement.
+
+Tube Simulatorの操作画面およびVST3プラグイン実装はJUCE 9.0.1を用いて
+構築されており、JUCE 9 StarterライセンスおよびJUCE 9エンドユーザー
+ライセンス契約の条項に従って配布しています。
+
+  Version / バージョン : JUCE 9.0.1
+  Modules / モジュール : juce_core, juce_events, juce_data_structures,
+                         juce_graphics, juce_gui_basics, juce_gui_extra,
+                         juce_audio_basics, juce_audio_processors_headless,
+                         juce_audio_processors, juce_audio_plugin_client
+
+The governing terms are the JUCE 9 End User Licence Agreement:
+  https://juce.com/legal/juce-9-licence/
+
+The Windows JUCE build used by Tube Simulator also incorporates the following
+components, each under its own licence:
+
+  - zlib — zlib License
+  - libpng — PNG Reference Library License
+  - Independent JPEG Group JPEG software — IJG license
+  - HarfBuzz — Old MIT license
+  - SheenBidi — Apache License 2.0
+  - LunaSVG — MIT License
+  - PlutoVG — MIT License
+
+This software is based in part on the work of the Independent JPEG Group.
+The corresponding notices are summarised in licenses/JUCE_LICENSE.md. The
+complete collected license and notice texts are supplied in
+licenses/JUCE_EMBEDDED_LICENSES.md. These components are separate from Tube
+Simulator's own licence.
+
+JUCE's complete distribution contains additional optional modules and
+dependencies that Tube Simulator does not build or distribute, including
+AudioUnitSDK, Oboe, FLAC, Ogg Vorbis, CHOC/QuickJS, LV2, AAX, Box2D, and ASIO.
+
+Windows版のJUCEビルドは、次のコンポーネントも内部で使用しています。
+それぞれTube Simulator本体とは別のライセンスが適用されます。
+
+  - zlib — zlib License
+  - libpng — PNG Reference Library License
+  - Independent JPEG Group JPEG software — IJG license
+  - HarfBuzz — Old MIT license
+  - SheenBidi — Apache License 2.0
+  - LunaSVG — MIT License
+  - PlutoVG — MIT License
+
+Independent JPEG Groupのバイナリ再配布に必要な表示:
+  This software is based in part on the work of the Independent JPEG Group.
+
+JUCE完全版に含まれる追加の任意モジュールや依存物のうち、AudioUnitSDK、
+Oboe、FLAC、Ogg Vorbis、CHOC/QuickJS、LV2、AAX、Box2D、ASIOなどは、
+Tube Simulatorではビルドも配布もしていません。
+
+Tube Simulator用のJUCEライセンス概要はlicenses/JUCE_LICENSE.mdとして
+同梱します。この概要は公式のJUCE 9エンドユーザーライセンス契約に
+代わるものではありません。
+
+組み込まれている第三者コンポーネントのライセンスおよび通知の全文は
+licenses/JUCE_EMBEDDED_LICENSES.mdに収録しています。
+
+
+----------------------------------------------------------------
+ Steinberg VST 3 SDK
+----------------------------------------------------------------
+
+The VST3 binary uses the VST 3 SDK supplied with JUCE. The VST 3 SDK is subject
+to the licence and VST trademark terms applicable to the SDK used for this
+release.
+
+VST is a trademark of Steinberg Media Technologies GmbH, registered in
+Europe and other countries. Tube Simulator is not Steinberg software.
+
+VST3プラグインは、JUCEに付属するVST 3 SDKを使用しています。VST 3 SDKには、
+本リリースで使用したSDKに適用されるライセンスおよびVST商標条件が適用されます。
+
+
+----------------------------------------------------------------
+ foobar2000 SDK
+----------------------------------------------------------------
+
+The foobar2000 version is built against the foobar2000 SDK. The SDK and
+foobar2000 itself are not redistributed in this archive and remain subject to
+the foobar2000 project's terms.
+
+foobar2000版はfoobar2000 SDKを用いてビルドされます。SDKおよびfoobar2000
+本体はこのアーカイブには同梱せず、foobar2000プロジェクトの条項に従います。
+
+  https://www.foobar2000.org
+
+
+----------------------------------------------------------------
+ Product names / 製品名
+----------------------------------------------------------------
+
+The names 310A, 300B and 274B are used solely as technical and historical type
+references. Their use does not imply any affiliation with, approval by,
+sponsorship by, or endorsement from any particular company or brand.
+
+310A、300B、274Bは、技術的・歴史的な型式参照を示す名称です。これらの
+名称は説明目的で使用しており、特定の企業やブランドとの提携、承認、推奨を
+示すものではありません。
+
+
+================================================================

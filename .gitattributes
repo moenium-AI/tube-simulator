@@ -1,0 +1,8 @@
+# Keep public distribution artefacts byte-identical to the files used for a
+# release. This prevents automatic line-ending or BOM changes on commit.
+* -text
+
+# Binary assets must not be treated as text.
+*.png binary
+*.jpg binary
+*.zip binary
