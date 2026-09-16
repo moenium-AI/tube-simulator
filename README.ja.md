@@ -9,16 +9,21 @@
 [![License](https://img.shields.io/badge/license-proprietary%20freeware-green)](#ライセンス)
 
 [製品サイト](https://moenium.net/tube-simulator/) ·
-[マニュアル](https://moenium.net/tube-simulator/manual/1.0/ja/introduction.html) ·
-[GitHub Releases](../../releases/latest) ·
-[更新履歴](distribution/changelog.md) ·
-[English README](README.md)
-
-[English](README.md) · 日本語 · [Deutsch](README.de-DE.md) ·
-[Español](README.es-ES.md) · [Français](README.fr-FR.md) ·
-[Italiano](README.it-IT.md) · [한국어](README.ko-KR.md) ·
-[Português](README.pt-BR.md) · [Русский](README.ru-RU.md) ·
-[简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
+[マニュアル / 日本語](https://moenium.net/tube-simulator/manual/1.0/ja/introduction.html) ·
+[English](https://moenium.net/tube-simulator/manual/1.0/en/introduction.html) ·
+[Deutsch](https://moenium.net/tube-simulator/manual/1.0/de-DE/introduction.html) ·
+[Español](https://moenium.net/tube-simulator/manual/1.0/es-ES/introduction.html) ·
+[Français](https://moenium.net/tube-simulator/manual/1.0/fr-FR/introduction.html) ·
+[Italiano](https://moenium.net/tube-simulator/manual/1.0/it-IT/introduction.html) ·
+[한국어](https://moenium.net/tube-simulator/manual/1.0/ko-KR/introduction.html) ·
+[Português](https://moenium.net/tube-simulator/manual/1.0/pt-BR/introduction.html) ·
+[Русский](https://moenium.net/tube-simulator/manual/1.0/ru-RU/introduction.html) ·
+[简体中文](https://moenium.net/tube-simulator/manual/1.0/zh-CN/introduction.html) ·
+[繁體中文](https://moenium.net/tube-simulator/manual/1.0/zh-TW/introduction.html) ·
+[言語選択](https://moenium.net/tube-simulator/manual/1.0/)
+ [GitHub Releases](../../releases/latest) ·
+ [更新履歴](distribution/changelog.md) ·
+ [English README](README.md)
 
 </div>
 
