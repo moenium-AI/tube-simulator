@@ -61,15 +61,15 @@ Tube Simulator directly builds against the following JUCE 9.0.1 modules:
 
 The Windows JUCE GUI and VST3 projects also compile the following embedded components:
 
-| Component | Licence | Vendored notice |
+| Component | Licence | Full text |
 | --- | --- | --- |
-| zlib | zlib License | [`zlib/LICENSE`](../External/JUCE/modules/juce_core/zip/zlib/LICENSE) |
-| libpng | PNG Reference Library License | [`pnglib/LICENSE`](../External/JUCE/modules/juce_graphics/image_formats/pnglib/LICENSE) |
-| Independent JPEG Group JPEG software | IJG license | [`jpglib/README`](../External/JUCE/modules/juce_graphics/image_formats/jpglib/README) |
-| HarfBuzz | Old MIT license | [`harfbuzz/COPYING`](../External/JUCE/modules/juce_graphics/fonts/harfbuzz/COPYING) |
-| SheenBidi | Apache License 2.0 | [`sheenbidi/LICENSE`](../External/JUCE/modules/juce_graphics/unicode/sheenbidi/LICENSE) |
-| LunaSVG | MIT License | [`lunasvg/LICENSE`](../External/JUCE/modules/juce_graphics/drawables/lunasvg/LICENSE) |
-| PlutoVG | MIT License | [`plutovg/LICENSE`](../External/JUCE/modules/juce_graphics/drawables/lunasvg/plutovg/LICENSE) |
+| zlib | zlib License | [`JUCE_EMBEDDED_LICENSES.md#zlib`](JUCE_EMBEDDED_LICENSES.md#zlib) |
+| libpng | PNG Reference Library License | [`JUCE_EMBEDDED_LICENSES.md#libpng`](JUCE_EMBEDDED_LICENSES.md#libpng) |
+| Independent JPEG Group JPEG software | IJG license | [`JUCE_EMBEDDED_LICENSES.md#independent-jpeg-group-jpeg-software`](JUCE_EMBEDDED_LICENSES.md#independent-jpeg-group-jpeg-software) |
+| HarfBuzz | Old MIT license | [`JUCE_EMBEDDED_LICENSES.md#harfbuzz`](JUCE_EMBEDDED_LICENSES.md#harfbuzz) |
+| SheenBidi | Apache License 2.0 | [`JUCE_EMBEDDED_LICENSES.md#sheenbidi`](JUCE_EMBEDDED_LICENSES.md#sheenbidi) |
+| LunaSVG | MIT License | [`JUCE_EMBEDDED_LICENSES.md#lunasvg`](JUCE_EMBEDDED_LICENSES.md#lunasvg) |
+| PlutoVG | MIT License | [`JUCE_EMBEDDED_LICENSES.md#plutovg`](JUCE_EMBEDDED_LICENSES.md#plutovg) |
 
 These notices are part of the vendored JUCE source tree and are separate from
 Tube Simulator's own licence. In particular, the accompanying documentation includes

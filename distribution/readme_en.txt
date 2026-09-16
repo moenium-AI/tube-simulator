@@ -6,7 +6,7 @@ Windows audio plug-in
 foobar2000 DSP / VST3
 
   Copyright (C) 2026 moenium
-  Release date : 2026-09-16
+  Release date : 2026-09-17
 
 
 ----------------------------------------------------------------
@@ -103,7 +103,7 @@ Standard or a Factory Preset. Auto Gain and Level Match adjust level; they
 are not safety limiters.
 
 ----------------------------------------------------------------
-6. Uninstalling
+ 6. Uninstalling
 ----------------------------------------------------------------
 
 foobar2000 DSP:

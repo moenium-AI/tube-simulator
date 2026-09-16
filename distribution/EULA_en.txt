@@ -6,7 +6,7 @@ The Japanese version is authoritative.
 Tube Simulator License Terms
 
 Version 1.0
-Established September 16, 2026
+Established September 17, 2026
 Copyright © 2026 moenium
 
 This English version is provided for convenience only. The Japanese version is the authoritative version of these License Terms. If there is any discrepancy in content or interpretation between this English translation and the Japanese version, the Japanese version shall prevail.
