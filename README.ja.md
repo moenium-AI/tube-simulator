@@ -161,7 +161,7 @@ Get-FileHash .\TubeSimulator_*.zip -Algorithm SHA256
 ## ドキュメント
 
 - [オンラインマニュアルと言語選択](https://moenium.net/tube-simulator/manual/1.0/)
--- [更新履歴](distribution/changelog.md)
+- [更新履歴](distribution/changelog.md)
 - [同梱README（日本語）](distribution/readme.txt)
 - [Bundled README（English）](distribution/readme_en.txt)
 - [EULA（日本語正文）](distribution/EULA_jp.txt)
