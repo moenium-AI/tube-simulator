@@ -21,9 +21,9 @@
 [简体中文](https://moenium.net/tube-simulator/manual/1.0/zh-CN/introduction.html) ·
 [繁體中文](https://moenium.net/tube-simulator/manual/1.0/zh-TW/introduction.html) ·
 [言語選択](https://moenium.net/tube-simulator/manual/1.0/)
- [GitHub Releases](../../releases/latest) ·
- [更新履歴](distribution/changelog.md) ·
- [English README](README.md)
+[GitHub Releases](../../releases/latest) ·
+[更新履歴](distribution/changelog.md) ·
+[English README](README.md)
 
 </div>
 
@@ -130,15 +130,14 @@ foobar2000では、Tube Simulatorを **Active DSPs** から外し、
 
 ## 使いはじめ
 
-最初は **Standard** またはFactory Presetから始め、Input DriveとOutputを少しずつ
-調整してください。詳しくは[日本語マニュアルのクイックスタート](https://moenium.net/tube-simulator/manual/1.0/ja/quick-start.html)
+詳しくは[日本語マニュアルのクイックスタート](https://moenium.net/tube-simulator/manual/1.0/ja/quick-start.html)
 をご覧ください。
 
 > **Drive、Output、Character、Oversamplingを変更する前に、再生音量を下げてください。**
 > これらの設定はピークレベルや聴感上の音量を変えることがあります。
 
-最初は **Standard** またはFactory Presetから始め、Input DriveとOutputを少しずつ
-調整してください。音量を揃えて比較するときは **Level Match** を使用し、基準経路を
+Input DriveとOutputを少しずつ調整してください。音量を揃えて比較するときは
+**Level Match** を使用し、基準経路を
 試聴するときは **COMPARE** を使用します。Auto GainとLevel Matchは異なる機能です。
 
 [Diagnosticsのスクリーンショット](screenshots/tubesimulator_screenshot/tubesimulator_diagnostics.png)
@@ -160,15 +159,13 @@ Get-FileHash .\TubeSimulator_*.zip -Algorithm SHA256
 
 ## ドキュメント
 
-- [オンラインマニュアルと言語選択](https://moenium.net/tube-simulator/manual/1.0/)
+- [オンラインマニュアル](https://moenium.net/tube-simulator/manual/1.0/)
 - [更新履歴](distribution/changelog.md)
-- [同梱README（日本語）](distribution/readme.txt)
-- [Bundled README（English）](distribution/readme_en.txt)
-- [EULA（日本語正文）](distribution/EULA_jp.txt)
-- [EULA（英訳）](distribution/EULA_en.txt)
+- [リリース同梱README（日本語）](distribution/readme.txt)
+- [リリース同梱README（English）](distribution/readme_en.txt)
+- [EULA](distribution/EULA_jp.txt)
+- [英語版EULA](distribution/EULA_en.txt)
 - [第三者ソフトウェア表記](distribution/third-party-notices.txt)
-- [JUCEライセンス概要](licenses/JUCE_LICENSE.md)
-- [組み込まれているJUCEコンポーネントのライセンス全文](licenses/JUCE_EMBEDDED_LICENSES.md)
 
 ## フィードバック・不具合報告
 

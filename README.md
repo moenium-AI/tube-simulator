@@ -21,9 +21,9 @@
 [简体中文](https://moenium.net/tube-simulator/manual/1.0/zh-CN/introduction.html) ·
 [繁體中文](https://moenium.net/tube-simulator/manual/1.0/zh-TW/introduction.html) ·
 [Language chooser](https://moenium.net/tube-simulator/manual/1.0/)
- [GitHub Releases](../../releases/latest) ·
- [Changelog](distribution/changelog.md) ·
- [日本語 README](README.ja.md)
+[GitHub Releases](../../releases/latest) ·
+[Changelog](distribution/changelog.md) ·
+[日本語 README](README.ja.md)
 
 </div>
 
@@ -138,14 +138,13 @@ rescan.
 
 ## Getting started
 
-Start with **Standard** or a Factory Preset, then adjust Input Drive and Output
-slowly. For detailed guidance, see the [English manual](https://moenium.net/tube-simulator/manual/1.0/en/quick-start.html).
+For detailed guidance, see the [English manual](https://moenium.net/tube-simulator/manual/1.0/en/quick-start.html).
 
 > **Turn your monitoring level down before changing Drive, Output, Character,
 > or Oversampling.** These controls can change peak and perceived level.
 
-Start with **Standard** or a Factory Preset, then adjust Input Drive and Output
-slowly. Use **Level Match** when making a closer loudness comparison, and use
+Adjust Input Drive and Output slowly. Use **Level Match** when making a closer
+loudness comparison, and use
 **COMPARE** to audition the reference path. Auto Gain and Level Match are
 different tools.
 
@@ -170,15 +169,13 @@ file identified on the release page.
 
 ## Documentation
 
-- [Online manual and language chooser](https://moenium.net/tube-simulator/manual/1.0/)
+- [Online manual](https://moenium.net/tube-simulator/manual/1.0/)
 - [Changelog](distribution/changelog.md)
 - [Bundled README (English)](distribution/readme_en.txt)
-- [同梱README（日本語）](distribution/readme.txt)
+- [Bundled README (Japanese)](distribution/readme.txt)
 - [EULA (English)](distribution/EULA_en.txt)
-- [EULA（日本語正文）](distribution/EULA_jp.txt)
+- [EULA (Japanese)](distribution/EULA_jp.txt)
 - [Third-party notices](distribution/third-party-notices.txt)
-- [JUCE licence summary](licenses/JUCE_LICENSE.md)
-- [Full embedded JUCE licence texts](licenses/JUCE_EMBEDDED_LICENSES.md)
 
 ## Feedback and bug reports
 
