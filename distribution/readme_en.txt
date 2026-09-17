@@ -20,10 +20,10 @@ Realtime Core.
 
 Its main features are:
 
-  - Four Characters: Standard, Dynamic PSU, OPT Magnetic, Full Reference
+  - Four Character models: Standard, Dynamic PSU, OPT Magnetic, Full Reference
   - Input Drive, Output, Auto Gain and Level Match
-  - COMPARE, independent from Level Match
-  - Auto / 1x / 2x / 4x linear-phase oversampling
+  - COMPARE for comparing processed audio with a reference signal
+  - Auto / 1x / 2x / 4x internal oversampling
   - 302-frame processing latency with the default Linear / High Quality profile
   - Profile PDC of 302 / 263 / 218 frames for Linear High / Standard / Light,
     and 28 frames for Minimum

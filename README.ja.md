@@ -57,9 +57,9 @@ Windows向けオーディオ・プラグインです。foobar2000 v2.x 64-bit用
 
 - **4種類のCharacter** Standard、Dynamic PSU、OPT Magnetic、Full Reference。
 - **真空管らしいドライブと出力調整** Input DriveとOutputを独立して調整できます。
-- **レベル調整** Auto Gain、Level Match、Level Matchとは独立したCOMPARE。
-- **オーバーサンプリング** Auto、1x、2x、4xのリニアフェーズ処理。
-- **Resampler profile** Linear / Minimum phaseと、High、Standard、Lightの品質設定。
+- **ゲイン・レベル調整と比較** Input Drive、Output、Auto Gain、Level Match、および処理音と基準信号を比較するCOMPARE。
+- **内部オーバーサンプリング** Auto、1x、2x、4x。
+- **選択可能なResampler profile** Linear / Minimum phaseと、High、Standard、Lightの品質設定。
 - **ホスト連携レイテンシ** 選択したprofileに応じて302、263、218、28 samplesのPDC。
 - **診断機能** 入出力メーター、ホールド、Diagnostics、About、Factory Preset。
 - **2種類のプラグイン形式** foobar2000 DSPコンポーネントと64-bit VST3版。

@@ -55,14 +55,14 @@ processing engine and configuration interface.
 
 ## Features
 
-- **Four Characters.** Standard, Dynamic PSU, OPT Magnetic, and Full Reference.
+- **Four Character models.** Standard, Dynamic PSU, OPT Magnetic, and Full Reference.
 - **Tube-style drive and output control.** Input Drive and Output are provided
   independently.
-- **Level tools.** Auto Gain, Level Match, and an independent COMPARE audition
-  path.
-- **Oversampling.** Auto, 1x, 2x, and 4x linear-phase processing.
-- **Selectable resampling profiles.** Linear / Minimum phase with High,
-  Standard, and Light quality choices.
+- **Gain and comparison controls.** Input Drive, Output, Auto Gain, and Level
+  Match, plus COMPARE for comparing processed audio with a reference signal.
+- **Internal oversampling.** Auto, 1x, 2x, and 4x.
+- **Selectable Resampler profiles.** Linear / Minimum phase with High, Standard,
+  and Light quality settings.
 - **Host-aware latency.** The public PDC values are 302, 263, 218, or 28
   samples depending on the selected profile.
 - **Useful diagnostics.** Input/output meters, holds, Diagnostics, About, and

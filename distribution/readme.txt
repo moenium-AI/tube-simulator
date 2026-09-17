@@ -21,8 +21,8 @@ VST3ホスト用プラグインを、同じ操作パネルと共通のRealtime C
 
   - Standard / Dynamic PSU / OPT Magnetic / Full Referenceの4 Character
   - Input Drive / Output / Auto Gain / Level Match
-  - Level Matchから独立したCOMPARE
-  - Auto / 1x / 2x / 4x Linear-phase Oversampling
+  - COMPAREによる処理音と基準信号の比較
+  - Auto / 1x / 2x / 4xの内部オーバーサンプリング
   - 既定のLinear / High Qualityで302-frame処理レイテンシ
   - Resampler profile別のPDC（Linear 302 / 263 / 218、Minimum 28 frames）
   - 44.1 / 48 / 88.2 / 96 / 176.4 / 192 kHz
