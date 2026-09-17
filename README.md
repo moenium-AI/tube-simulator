@@ -171,8 +171,7 @@ file identified on the release page.
 ## Documentation
 
 - [Online manual and language chooser](https://moenium.net/tube-simulator/manual/1.0/)
-- [Output measurements](measurements/)
-- [Changelog](distribution/changelog.md)
+-- [Changelog](distribution/changelog.md)
 - [Bundled README (English)](distribution/readme_en.txt)
 - [同梱README（日本語）](distribution/readme.txt)
 - [EULA (English)](distribution/EULA_en.txt)
